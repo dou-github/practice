@@ -1,3 +1,6 @@
+# Deep learning
+# Gradient Descent algorithm
+
 import numpy as np
 
 
